@@ -1,0 +1,7 @@
+Proxy IP : Country : http/s : uptime : port
+
+81.255.13.197 : France : http : high : 8080
+217.97.101.134 : Poland : http : high : 80
+124.121.92.216 : Thailand : https : high : 80
+58.176.147.14 : Hong Kong : http : high : 8380
+47.89.153.213 : Canada : http : high : 80
