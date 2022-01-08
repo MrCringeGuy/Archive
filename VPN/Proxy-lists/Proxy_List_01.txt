@@ -1,0 +1,26 @@
+Proxy IP : Country : http/s : uptime : port : speed : anonymity
+
+France:
+
+159.8.114.34 : France : https : 100% : 8123 : 606ms : Elite   https://159.8.114.34:8123
+159.8.114.37 : France : https : 100% : 25 : 590ms : Elite   https://159.8.114.37:25
+
+Poland:
+
+195.187.63.42 : Poland : https : 50% : 8080 : 4906ms : Transparent  https://195.187.63.42:8080
+46.238.230.4 : Poland : https : 25% : 8080 : 2951ms : Transparent   https://46.238.230.4:8080
+
+Thailand:
+
+1.0.170.50 : Thailand : https : 100% : 4885 : Transparent   https://1.0.170.50:4885
+101.51.106.70 : Thailand : https : 37% : 49285 : 3850ms : Elite   https://101.51.106.70:49285
+
+Hong Kong:
+
+113.28.90.67 : Hong Kong : https : 100% : 9480 : 662ms : Elite  https://113.28.90.67:9480
+101.32.72.98 : Hong Kong : https : 100% : 65001 : 1338ms : Elite    https://101.32.72.98:65001
+
+Canada:
+
+144.217.240.185 : Canada : https : 100% : 9300 : 1022ms : Elite    https://144.217.240.185:9300
+167.114.96.27 : Canada : https : 33% : 9300 : 1068ms : Elite    https://167.144.96.27:9300
